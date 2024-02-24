@@ -1,0 +1,4 @@
+repository "Elden Ring@Akadus@cloud"
+  path "/"
+    br "/main"
+    co "/main"
